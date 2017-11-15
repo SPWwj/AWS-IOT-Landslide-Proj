@@ -1,0 +1,16 @@
+{
+  "state": {
+    "reported": {}
+  },
+  "entryUUID": "e55bc185-015b-4864-aea4-648f9f05f0de",
+  "deviceID": 0,
+  "status": 0,
+  "soil": 300,
+  "rain": 300,
+  "accl_x": 0,
+  "accl_y": 0,
+  "accl_z": 0,
+  "gyro_x": -0.56,
+  "gyro_y": -0.28,
+  "gyro_z": 0.42
+}

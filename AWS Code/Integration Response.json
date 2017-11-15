@@ -1,0 +1,7 @@
+#set($inputRoot = $input.path('$'))
+{
+    #foreach($elem in $inputRoot.Items)
+    "ID$elem.deviceID.N":
+    [$elem.lat.N, $elem.long.N, $elem.lastUpdated.N, $elem.riskFactor.N]#if($foreach.hasNext),#end
+	#end
+}
