@@ -17,6 +17,7 @@ The MakeSense1 mainly consists of 3 subsystems: (i) Sensing Subsystem; (ii) Clou
 
 
 MakeSense1 Node
+![2](https://user-images.githubusercontent.com/30100720/32892689-0f1635d4-cb12-11e7-8372-5da3e9238aa5.jpg)
 
 **3.3 Future plans**
 
