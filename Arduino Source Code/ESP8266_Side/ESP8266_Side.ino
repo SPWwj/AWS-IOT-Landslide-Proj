@@ -301,5 +301,5 @@ response:
   }
 
   // Send next message 5 seconds later
-  delay(5000);
+  delay(1000);
 }
