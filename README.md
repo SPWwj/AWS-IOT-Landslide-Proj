@@ -21,4 +21,4 @@ MakeSense1 Node
 
 **3.3 Future plans**
 
-Future development plans include (i) mesh networking between individual MakeSense1 nodes, allowing coverage of the entire area with wireless networking; (ii) push notifications to its users&#39; mobile devices which allows them to be immediately notified of an emergency; and (iii) feeding sensor data into a machine learning platform for early detection of environmental disasters.
+Future development plans include (i) mesh networking between individual MakeSense1 nodes, allowing coverage of the entire area with wireless networking and (ii) feeding sensor data into a machine learning platform for early detection of environmental disasters.
